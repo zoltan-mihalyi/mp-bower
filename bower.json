@@ -1,0 +1,14 @@
+{
+  "name": "mp-engine",
+  "version": "1.0.0",
+  "authors": [
+    "zoltan-mihalyi <zoltan.mihalyi.90@gmail.com>"
+  ],
+  "description": "Multiplayer engine",
+  "keywords": [
+    "multiplayer",
+    "game"
+  ],
+  "main":"mp.js",
+  "license": "MIT"
+}
